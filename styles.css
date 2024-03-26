@@ -34,6 +34,10 @@ img {
   width: 40vh;
 }
 
+#continue{
+  min-width: 100px;
+}
+
 .question{
   font-family: "Paytone One", sans-serif;
   font-size: 4.5vh;
@@ -53,13 +57,14 @@ img {
   position: absolute;
   transition: 0.4s;
   margin-left: 17vw;
-  border-spacing: 10vw;
+  min-width: 75px;
 }
 
 #yesButton {
   position: absolute;
+  transition: 0.4s;
   margin-right: 17vw;
-  border-spacing: 10vw;
+  min-width: 75px;
 }
 
 .btn {
@@ -73,5 +78,4 @@ img {
   width: 8vw; 
   height: 8vh;
   border-radius: 5px;
-  border-spacing: 10vw;
 }
