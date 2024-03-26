@@ -57,14 +57,14 @@ img {
   position: absolute;
   transition: 0.4s;
   margin-left: 17vw;
-  min-width: 75px;
+  min-width: 55px;
 }
 
 #yesButton {
   position: absolute;
   transition: 0.4s;
   margin-right: 17vw;
-  min-width: 75px;
+  min-width: 55px;
 }
 
 .btn {
